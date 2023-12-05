@@ -1,4 +1,13 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+import java.util.Scanner;
+
 public class Main {
+
     public static void main(String[] args) {
+Ipv4 ipv4 = new Ipv4();
+ipv4.stringToInt();
+ipv4.decToBin1();
+ipv4.decToBin2();
+ipv4.decToBin3();
+ipv4.decToBin4();
+    }
+}
